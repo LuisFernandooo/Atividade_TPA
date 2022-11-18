@@ -1,0 +1,7 @@
+E:\Tpa\Atividade TPA\Atividade TPA\bin\Debug\Atividade TPA.exe.config
+E:\Tpa\Atividade TPA\Atividade TPA\bin\Debug\Atividade TPA.exe
+E:\Tpa\Atividade TPA\Atividade TPA\bin\Debug\Atividade TPA.pdb
+E:\Tpa\Atividade TPA\Atividade TPA\obj\Debug\Atividade TPA.csprojAssemblyReference.cache
+E:\Tpa\Atividade TPA\Atividade TPA\obj\Debug\Atividade TPA.csproj.CoreCompileInputs.cache
+E:\Tpa\Atividade TPA\Atividade TPA\obj\Debug\Atividade TPA.exe
+E:\Tpa\Atividade TPA\Atividade TPA\obj\Debug\Atividade TPA.pdb
